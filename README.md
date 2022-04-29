@@ -1,2 +1,8 @@
-# chat_who_project
-The original codes and the wrapped &lt;.exe> program of the project chat_who
+# 使用须知
+  由于本程序是基于热键（hotkey）实现的，因此使用前需要先确保微信电脑版相应热键开启。（如果没有自己乱改过的话，就是系统默认的快捷键即可）
+  
+  具体为：微信电脑版>设置>快捷键。“发送消息”应为`Enter`；“打开微信”应为`Ctrl+Alt+W`。
+  
+  在使用程序前，请确保已经登陆微信，并处于最小化状态（也即现在微信处于后台运行状态）。
+  
+  !Buena Suerte!
