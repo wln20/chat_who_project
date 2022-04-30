@@ -1,6 +1,6 @@
 # README
 ## 源码说明
-  main.py是程序主文件，untitled.ui是GUI设计源文件，untitled.py是由GUI设计源文件导出的GUI配置脚本。
+  main.py是程序主文件，untitled.ui是GUI设计源文件，untitled.py是由GUI设计源文件导出的GUI配置脚本（懒得改名了就这样吧）。
 ## 使用说明
   由于本程序是基于热键（hotkey）实现的，因此使用前需要先确保微信电脑版相应热键开启。（如果没有自己乱改过的话，就是系统默认的快捷键即可）
   
