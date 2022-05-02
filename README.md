@@ -13,5 +13,5 @@
   
   密码：19260817
   
-  
-<font face="Old English Text MT">iBuena Suerte!</font>
+<br/>  
+iBuena Suerte!
