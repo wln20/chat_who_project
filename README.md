@@ -10,6 +10,8 @@
   在使用程序前，请确保已经登陆微信，并处于最小化状态（也即现在微信处于后台运行状态）。
 #### 登录指南
   用户名：随便写
+  
   密码：19260817
   
-  iBuena Suerte!
+  
+<font face="Old English Text MT">iBuena Suerte!</font>
